@@ -1,6 +1,6 @@
-# Lead Manager
+# Lead Manager App
 
-Full stack Django/React/Redux app that uses token based authentication with Knox.
+Full stack Django/React/Redux app that uses token based authentication with Knox and Python (v3.8)
 
 ## Quick Start
 
