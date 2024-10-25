@@ -1,6 +1,6 @@
 {
-  "name": "lead_manager_react_django",
-  "version": "1.0.0",
+  "name": "lead-manager-react-django",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benyaamin/lead_manager_react_django.git"
+    "url": "https://github.com/benyaamin/lead-manager-react-django.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Benjamin Jorquera",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/benyaamin/lead_manager_react_django/issues"
+    "url": "https://github.com/benyaamin/lead-manager-react-django/issues"
   },
-  "homepage": "https://github.com/benyaamin/lead_manager_react_django#readme",
+  "homepage": "https://github.com/benyaamin/lead-manager-react-django#readme",
   "devDependencies": {
     "@babel/core": "^7.10.5",
     "@babel/preset-env": "^7.10.4",
@@ -40,5 +40,9 @@
     "redux": "^4.0.5",
     "redux-devtools-extension": "^2.13.8",
     "redux-thunk": "^2.3.0"
+  },
+  "engines": {
+    "npm": "8.19.4",
+    "node": "16.20.2"
   }
 }
